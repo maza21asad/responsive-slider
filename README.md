@@ -2,6 +2,8 @@
 
 The **Responsive Slider** project is a React-based web application that utilizes the Swiper library to create a responsive slider for displaying pictures. This slider allows users to navigate through a collection of images seamlessly, providing a visually engaging experience.
 
+**Website Link:** https://responsive-slider.vercel.app/
+
 ## Technologies Used
 
 - **Vite**: Vite is used as the build tool for this project. It offers fast development server, instant hot module replacement (HMR), and efficient production builds.
